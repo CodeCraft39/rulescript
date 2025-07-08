@@ -1,3 +1,4 @@
+#!url=https://raw.githubusercontent.com/CodeCraft39/rulescript/refs/heads/main/YouTubeAds.sgmodule
 #!name=Youtube (Music) Enhance
 #!desc=适用于 Youtube & Youtube Music
 #!arguments=屏蔽上传按钮:true,屏蔽选段按钮:true,屏蔽Shorts按钮:false,字幕翻译语言:off,歌词翻译语言:off,启用调试模式:false
